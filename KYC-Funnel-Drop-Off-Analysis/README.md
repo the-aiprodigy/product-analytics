@@ -1,4 +1,4 @@
-# **KYC FUNNEL DROP-OFF ANALYSIS**
+# **KYC ONBOARDING: FUNNEL DROP-OFF ANALYSIS**
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This repository contains the end-to-end data science workflow for analyzing the 
 
 **Goal:** Identify where users abandon the oboarding journey, why they leave, and provide data-backed recommendations to improve the **KYC Completion Rate**.
 
----
+<img width="639" height="130" alt="image" src="https://github.com/user-attachments/assets/abd09db9-06e3-48b2-a5d9-9a7ed2d60b76" />
 
 ## 📂 Data Schema
 
