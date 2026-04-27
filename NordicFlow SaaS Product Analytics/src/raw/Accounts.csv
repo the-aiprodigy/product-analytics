@@ -1,0 +1,121 @@
+"account_id","account_name","country_code","city","industry","employee_band","segment","created_at","trial_start_date","trial_end_date","account_status","acquisition_channel"
+account_1,Euro Pulse Consulting AS,UK,London,SaaS,"20-49",SMB,2026-02-08 20:28:06.000,2026-02-08 00:00:00.000,2026-02-22 00:00:00.000,active,paid_search
+account_2,Vertex Peak Services SAS,UK,Bristol,SaaS,"100-199",Mid-Market,2027-10-14 16:49:57.000,2027-10-14 00:00:00.000,2027-10-28 00:00:00.000,active,sales-led
+account_3,Bright Link Networks,NL,Utrecht,Manufacturing,"20-49",SMB,2029-06-07 19:55:23.000,2029-06-07 00:00:00.000,2029-06-21 00:00:00.000,active,product-led
+account_4,Blue Peak Logistics,FR,Marseille,Manufacturing,"50-99",SMB,2026-05-04 22:51:37.000,,,cancelled,partner
+account_5,Green Peak Group,SE,Västerås,Wholesale,"20-49",SMB,2029-02-06 15:49:02.000,2029-02-06 00:00:00.000,2029-02-20 00:00:00.000,active,paid_search
+account_6,Atlas Works Systems,NL,Utrecht,Manufacturing,"200-300",Mid-Market,2026-11-27 07:17:31.000,2026-11-27 00:00:00.000,2026-12-11 00:00:00.000,active,sales-led
+account_7,Blue Craft Networks GmbH,DK,Aarhus,SaaS,"20-49",SMB,2026-08-03 21:22:52.000,2026-08-03 00:00:00.000,2026-08-17 00:00:00.000,active,sales-led
+account_8,Atlas Craft Solutions,NO,Oslo,Logistics,"100-199",Mid-Market,2028-11-25 00:00:16.000,,,active,product-led
+account_9,Atlas Craft Solutions,SE,Västerås,B2B Agency,"100-199",Mid-Market,2029-11-18 17:13:55.000,2029-11-18 00:00:00.000,2029-12-02 00:00:00.000,active,paid_search
+account_10,Green Flow Systems,DK,Aalborg,Technology Services,"200-300",Mid-Market,2026-01-31 06:08:44.000,2026-01-31 00:00:00.000,2026-02-14 00:00:00.000,active,partner
+account_11,Bright Pulse Consulting,FR,Nantes,Professional Services,"200-300",Mid-Market,2029-04-04 16:22:37.000,2029-04-04 00:00:00.000,2029-04-18 00:00:00.000,active,partner
+account_12,Nordic Pulse Trading,DE,Munich,SaaS,"20-49",SMB,2027-11-12 13:33:17.000,,,active,partner
+account_13,Iron Pulse Industries,NO,Trondheim,B2B Agency,"50-99",SMB,2026-04-21 01:45:12.000,2026-04-21 00:00:00.000,2026-05-05 00:00:00.000,active,sales-led
+account_14,Nordic Craft Logistics,DK,Aalborg,Wholesale,"100-199",Mid-Market,2027-10-01 15:00:13.000,2027-10-01 00:00:00.000,2027-10-15 00:00:00.000,active,product-led
+account_15,Euro Flow Trading,SE,Malmö,Technology Services,"50-99",SMB,2027-12-20 16:01:28.000,2027-12-20 00:00:00.000,2028-01-03 00:00:00.000,churned,paid_search
+account_16,Atlas Wave Services,DE,Cologne,SaaS,"20-49",SMB,2026-11-29 01:04:36.000,,,churned,content
+account_17,Nordic Flow Networks,SE,Gothenburg,SaaS,"100-199",Mid-Market,2027-04-06 22:04:10.000,2027-04-06 00:00:00.000,2027-04-20 00:00:00.000,active,partner
+account_18,Green Pulse Networks AS,FR,Lyon,SaaS,"20-49",SMB,2026-04-17 10:39:37.000,2026-04-17 00:00:00.000,2026-05-01 00:00:00.000,active,paid_search
+account_19,Euro Flow Industries,SE,Malmö,Manufacturing,"50-99",SMB,2027-01-06 18:51:26.000,2027-01-06 00:00:00.000,2027-01-20 00:00:00.000,active,partner
+account_20,Atlas Pulse Trading SAS,SE,Malmö,Manufacturing,"20-49",SMB,2029-09-30 08:59:48.000,2029-09-30 00:00:00.000,2029-10-14 00:00:00.000,active,paid_search
+account_21,Apex Signal Services,DK,Copenhagen,B2B Agency,"20-49",SMB,2029-10-14 02:53:38.000,2029-10-14 00:00:00.000,2029-10-28 00:00:00.000,active,sales-led
+account_22,Cobalt Track Consulting,FR,Marseille,Logistics,"50-99",SMB,2026-03-10 11:40:25.000,2026-03-10 00:00:00.000,2026-03-24 00:00:00.000,active,sales-led
+account_23,Apex Signal Systems,NO,Trondheim,Logistics,"20-49",SMB,2028-06-23 21:31:50.000,2028-06-23 00:00:00.000,2028-07-07 00:00:00.000,active,product-led
+account_24,Vertex Flow Solutions,UK,Manchester,Technology Services,"200-300",Mid-Market,2029-12-09 02:58:36.000,,,cancelled,sales-led
+account_25,Green Signal Industries,FR,Lyon,SaaS,"50-99",SMB,2027-02-19 11:14:16.000,2027-02-19 00:00:00.000,2027-03-05 00:00:00.000,active,content
+account_26,Vertex Track Logistics,DE,Munich,Wholesale,"20-49",SMB,2027-03-09 19:04:29.000,,,churned,paid_search
+account_27,Bright Bridge Consulting,DK,Copenhagen,Manufacturing,"100-199",Mid-Market,2026-06-18 09:32:23.000,2026-06-18 00:00:00.000,2026-07-02 00:00:00.000,active,paid_search
+account_28,Euro Peak Networks,FR,Nantes,Logistics,"100-199",Mid-Market,2028-12-02 23:53:25.000,2028-12-02 00:00:00.000,2028-12-16 00:00:00.000,active,content
+account_29,Blue Pulse Networks, DE ,Munich,Wholesale,"20-49",SMB,2027-09-18 02:34:25.000,2027-09-18 00:00:00.000,2027-10-02 00:00:00.000,active,content
+account_30,Euro Link Trading,NL,Utrecht,Technology Services,"50-99",SMB,2027-12-24 08:00:58.000,2027-12-24 00:00:00.000,2028-01-07 00:00:00.000,active,sales-led
+account_31,Euro Wave Consulting,DK,Aarhus,Manufacturing,"20-49",SMB,2029-06-06 22:50:39.000,2029-06-06 00:00:00.000,2029-06-20 00:00:00.000,active,paid_search
+account_32,Blue Track Industries AB,SE,Stockholm,Manufacturing,"20-49",SMB,2029-10-18 16:46:13.000,2029-10-18 00:00:00.000,2029-11-01 00:00:00.000,active,sales-led
+account_33,Vertex Track Industries,NL,The Hague,Technology Services,"50-99",SMB,2028-07-14 00:04:17.000,2028-07-14 00:00:00.000,2028-07-28 00:00:00.000,active,paid_search
+account_34,Atlas Signal Services,UK,Birmingham,Manufacturing,"20-49",SMB,2029-04-04 15:36:12.000,2029-04-04 00:00:00.000,2029-04-18 00:00:00.000,active,product-led
+account_35,Vertex Craft Networks,SE,Gothenburg,,"50-99",SMB,2026-04-10 18:37:30.000,2026-04-10 00:00:00.000,2026-04-24 00:00:00.000,active,sales-led
+account_36,Iron Signal Industries, DK ,Odense,B2B Agency,"100-199",Mid-Market,2029-03-16 11:35:19.000,2029-03-16 00:00:00.000,2029-03-30 00:00:00.000,cancelled,paid_search
+account_37,Iron Pulse Group GmbH,UK,Manchester,SaaS,"50-99",SMB,2029-07-29 16:19:20.000,2029-07-29 00:00:00.000,2029-08-12 00:00:00.000,active,content
+account_38,Atlas Bridge Industries BV,SE,Uppsala,Technology Services,"20-49",SMB,2027-05-23 17:41:41.000,2027-05-23 00:00:00.000,2027-06-06 00:00:00.000,cancelled,content
+account_39,Green Works Industries,UK,London,B2B Agency,"100-199",Mid-Market,2029-03-17 15:51:07.000,2029-03-17 00:00:00.000,2029-03-31 00:00:00.000,active,sales-led
+account_40,Euro Pulse Group,SE,Västerås,Professional Services,"100-199",Mid-Market,2028-08-01 07:49:38.000,,,active,partner
+account_41,Iron Bridge Networks,SE,Stockholm,Technology Services,"20-49",SMB,2028-07-08 19:00:29.000,2028-07-08 00:00:00.000,2028-07-22 00:00:00.000,active,partner
+account_42,Blue Craft Solutions,DK,Copenhagen,Logistics,"50-99",SMB,2029-08-12 18:28:30.000,2029-08-12 00:00:00.000,2029-08-26 00:00:00.000,active,content
+account_43,Atlas Wave Systems,DE,Cologne,Professional Services,"20-49",SMB,2027-11-08 15:23:38.000,,,active,product-led
+account_44,Bright Flow Trading,DK,Aarhus,B2B Agency,"20-49",SMB,2028-01-28 09:10:44.000,2028-01-28 00:00:00.000,2028-02-11 00:00:00.000,cancelled,partner
+account_45,Vertex Signal Services,UK,Leeds,Logistics,"20-49",SMB,2028-09-30 09:00:19.000,2028-09-30 00:00:00.000,2028-10-14 00:00:00.000,active,sales-led
+account_46,Apex Bridge Trading,NL,Utrecht,SaaS,"20-49",SMB,2027-07-01 12:26:49.000,2027-07-01 00:00:00.000,2027-07-15 00:00:00.000,active,sales-led
+account_47,Blue Link Group,NL,The Hague,Professional Services,"20-49",SMB,2028-07-16 01:58:17.000,2028-07-16 00:00:00.000,2028-07-30 00:00:00.000,active,partner
+account_48,Blue Flow Services,SE,Uppsala,Manufacturing,"50-99",SMB,2026-06-09 08:44:40.000,,,active,partner
+account_49,Bright Craft Networks,UK,London,Professional Services,"20-49",SMB,2026-08-24 16:47:34.000,2026-08-24 00:00:00.000,2026-09-07 00:00:00.000,active,product-led
+account_50,Bright Craft Networks,DK,Esbjerg,Wholesale,"50-99",SMB,2027-10-29 03:56:06.000,2027-10-29 00:00:00.000,2027-11-12 00:00:00.000,active,product-led
+account_51,Euro Signal Services,DE,Frankfurt,Wholesale,"100-199",Mid-Market,2027-12-31 23:36:25.000,2027-12-31 00:00:00.000,2028-01-14 00:00:00.000,active,content
+account_52,Atlas Pulse Networks,NL,Rotterdam,SaaS,"20-49",SMB,2028-10-03 01:34:21.000,2028-10-03 00:00:00.000,2028-10-17 00:00:00.000,active,sales-led
+account_53,Iron Link Group Ltd,DK,Esbjerg,Manufacturing,"20-49",SMB,2028-04-18 19:58:18.000,2028-04-18 00:00:00.000,2028-05-02 00:00:00.000,active,partner
+account_54,Atlas Works Networks,UK,Birmingham,Wholesale,"50-99",SMB,2028-06-14 04:02:41.000,2028-06-14 00:00:00.000,2028-06-28 00:00:00.000,active,content
+account_55,Bright Flow Industries ApS,DK,Copenhagen,Wholesale,"50-99",SMB,2029-08-25 10:36:27.000,2029-08-25 00:00:00.000,2029-09-08 00:00:00.000,active,content
+account_56,Cobalt Flow Systems,NO,Drammen,Technology Services,"50-99",SMB,2027-12-19 15:43:35.000,2027-12-19 00:00:00.000,2028-01-02 00:00:00.000,active,content
+account_57,Euro Signal Partners,NO,Drammen,B2B Agency,"50-99",SMB,2029-05-26 16:34:33.000,2029-05-26 00:00:00.000,2029-06-09 00:00:00.000,active,content
+account_58,Vertex Signal Networks,NL,Utrecht,B2B Agency,"20-49",SMB,2027-10-08 10:36:09.000,,,churned,sales-led
+account_59,Iron Pulse Industries,DE,Munich,Wholesale,"20-49",SMB,2029-12-22 07:18:16.000,2029-12-22 00:00:00.000,2030-01-05 00:00:00.000,active,partner
+account_60,Green Craft Group,DE,Cologne,B2B Agency,"100-199",Mid-Market,2029-12-20 03:15:10.000,2029-12-20 00:00:00.000,2030-01-03 00:00:00.000,active,content
+account_61,Cobalt Bridge Trading,FR,Lyon,,"200-300",Mid-Market,2028-02-09 11:11:25.000,,,active,product-led
+account_62,Apex Track Consulting,NO,Stavanger,Wholesale,"100-199",Mid-Market,2029-04-29 01:22:28.000,,,active,product-led
+account_63,Vertex Bridge Partners,NL,Amsterdam,Wholesale,"200-300",Mid-Market,2026-12-31 16:52:08.000,2026-12-31 00:00:00.000,2027-01-14 00:00:00.000,churned,product-led
+account_64,Blue Works Partners,DK,Odense,Wholesale,"50-99",SMB,2027-08-06 07:05:19.000,2027-08-06 00:00:00.000,2027-08-20 00:00:00.000,active,sales-led
+account_65,Atlas Track Solutions ApS,SE,Uppsala,Technology Services,"20-49",SMB,2028-09-17 22:48:30.000,2028-09-17 00:00:00.000,2028-10-01 00:00:00.000,active,content
+account_66,Apex Pulse Services,DE,Munich,Manufacturing,"20-49",SMB,2026-11-06 11:20:52.000,,,cancelled,paid_search
+account_67,Iron Peak Systems,NL,Amsterdam,Logistics,"200-300",Mid-Market,2029-11-15 14:15:38.000,2029-11-15 00:00:00.000,2029-11-29 00:00:00.000,active,sales-led
+account_68,Nordic Pulse Logistics,FR,Lyon,Technology Services,"20-49",SMB,2028-09-02 22:47:13.000,2028-09-02 00:00:00.000,2028-09-16 00:00:00.000,active,content
+account_69,Atlas Wave Services,SE,Västerås,Technology Services,"200-300",Mid-Market,2029-09-23 12:49:09.000,,,active,sales-led
+account_70,Bright Bridge Industries,SE,Uppsala,SaaS,"100-199",Mid-Market,2029-08-06 19:38:22.000,,,active,partner
+account_71,Iron Signal Partners,DK,Copenhagen,B2B Agency,"200-300",Mid-Market,2028-11-14 07:43:49.000,2028-11-14 00:00:00.000,2028-11-28 00:00:00.000,active,partner
+account_72,Vertex Wave Logistics,NO,Oslo,B2B Agency,"20-49",SMB,2027-04-18 19:32:02.000,,,active,sales-led
+account_73,Apex Signal Industries,SE,Uppsala,Logistics,"50-99",SMB,2028-10-14 09:15:29.000,2028-10-14 00:00:00.000,2028-10-28 00:00:00.000,active,product-led
+account_74,Euro Signal Networks,UK,Birmingham,Technology Services,"20-49",SMB,2026-04-05 01:28:15.000,2026-04-05 00:00:00.000,2026-04-19 00:00:00.000,active,content
+account_75,Apex Works Networks SAS,SE,Stockholm,Technology Services,"20-49",SMB,2029-07-13 01:51:04.000,2029-07-13 00:00:00.000,2029-07-27 00:00:00.000,active,sales-led
+account_76,Blue Link Group GmbH,NO,Oslo,Logistics,"20-49",SMB,2026-07-24 17:58:50.000,2026-07-24 00:00:00.000,2026-08-07 00:00:00.000,cancelled,product-led
+account_77,Atlas Wave Group GmbH,NL,The Hague,Wholesale,"50-99",SMB,2026-06-19 09:49:41.000,2026-06-19 00:00:00.000,2026-07-03 00:00:00.000,active,paid_search
+account_78,Iron Track Logistics,DE,Berlin,Logistics,"20-49",SMB,2029-10-28 23:05:42.000,2029-10-28 00:00:00.000,2029-11-11 00:00:00.000,active,paid_search
+account_79,Vertex Wave Systems,FR,Paris,Technology Services,"50-99",SMB,2029-08-17 18:25:03.000,2029-08-17 00:00:00.000,2029-08-31 00:00:00.000,cancelled,sales-led
+account_80,Euro Craft Partners,DK,Odense,SaaS,"50-99",SMB,2027-08-05 10:57:12.000,,,active,product-led
+account_81,Nordic Link Networks,NL,Utrecht,Technology Services,"100-199",Mid-Market,2028-11-06 19:54:18.000,2028-11-06 00:00:00.000,2028-11-20 00:00:00.000,active,content
+account_82,Vertex Track Networks,FR,Paris,B2B Agency,"100-199",Mid-Market,2027-06-28 21:11:44.000,,,active,sales-led
+account_83,Iron Craft Partners Ltd,SE,Malmö,Professional Services,"50-99",SMB,2028-12-27 14:30:32.000,2028-12-27 00:00:00.000,2029-01-10 00:00:00.000,churned,sales-led
+account_84,Euro Flow Solutions BV,DE,Munich,B2B Agency,"100-199",Mid-Market,2026-09-02 12:38:35.000,2026-09-02 00:00:00.000,2026-09-16 00:00:00.000,active,paid_search
+account_85,Atlas Pulse Industries,NL,Eindhoven,Manufacturing,"20-49",SMB,2027-10-06 09:53:20.000,2027-10-06 00:00:00.000,2027-10-20 00:00:00.000,active,product-led
+account_86,Cobalt Craft Solutions BV,SE,Malmö,SaaS,"20-49",SMB,2026-11-25 03:22:24.000,2026-11-25 00:00:00.000,2026-12-09 00:00:00.000,active,product-led
+account_87,Iron Craft Networks,NO,Stavanger,SaaS,"50-99",SMB,2029-08-31 16:54:14.000,2029-08-31 00:00:00.000,2029-09-14 00:00:00.000,active,partner
+account_88,Green Craft Networks,SE,Västerås,Technology Services,"20-49",SMB,2027-12-16 17:39:20.000,,,churned,product-led
+account_89,Apex Works Systems ApS,FR,Lyon,Technology Services,"50-99",SMB,2026-04-29 15:37:46.000,2026-04-29 00:00:00.000,2026-05-13 00:00:00.000,active,partner
+account_90,Apex Peak Solutions,SE,Uppsala,B2B Agency,"50-99",SMB,2027-12-22 17:25:26.000,2027-12-22 00:00:00.000,2028-01-05 00:00:00.000,active,paid_search
+account_91,Euro Bridge Networks,DK,Esbjerg,Technology Services,"20-49",SMB,2026-04-26 06:01:41.000,2026-04-26 00:00:00.000,2026-05-10 00:00:00.000,active,partner
+account_92,Blue Flow Industries SAS,NO,Stavanger,Manufacturing,"20-49",SMB,2029-11-13 03:50:19.000,,,active,paid_search
+account_93,Vertex Peak Networks Ltd,SE,Uppsala,Logistics,"50-99",SMB,2027-11-14 14:49:54.000,2027-11-14 00:00:00.000,2027-11-28 00:00:00.000,active,content
+account_94,Euro Pulse Solutions,DK,Odense,Professional Services,"50-99",SMB,2029-01-29 06:44:46.000,,,churned,partner
+account_95,Euro Craft Trading,UK,London,Professional Services,"20-49",SMB,2027-04-26 22:02:57.000,2027-04-26 00:00:00.000,2027-05-10 00:00:00.000,active,paid_search
+account_96,Bright Track Trading ApS,DE,Hamburg,Technology Services,"20-49",SMB,2026-12-18 22:08:12.000,,,active,product-led
+account_97,Cobalt Pulse Services,SE,Västerås,Logistics,"20-49",SMB,2029-06-10 19:20:09.000,,,active,sales-led
+account_98,Atlas Craft Trading,FR,Toulouse,Manufacturing,"200-300",Mid-Market,2029-11-05 06:36:21.000,,,active,content
+account_99,Euro Link Partners,DK,Copenhagen,Wholesale,"200-300",Mid-Market,2028-09-23 00:53:13.000,2028-09-23 00:00:00.000,2028-10-07 00:00:00.000,active,paid_search
+account_100,Green Craft Partners,SE,Uppsala,,"20-49",SMB,2029-10-06 05:23:18.000,2029-10-06 00:00:00.000,2029-10-20 00:00:00.000,active,partner
+account_101,Cobalt Wave Networks AS,FR,Lyon,,"50-99",SMB,2026-08-02 18:05:04.000,2026-08-02 00:00:00.000,2026-08-16 00:00:00.000,churned,sales-led
+account_102,Vertex Pulse Industries SAS,NL,The Hague,SaaS,"20-49",SMB,2027-10-20 12:04:52.000,2027-10-20 00:00:00.000,2027-11-03 00:00:00.000,ACTIVE,sales-led
+account_103,Bright Peak Partners,DK,Aalborg,Wholesale,"50-99",SMB,2026-01-03 10:19:21.000,2026-01-03 00:00:00.000,2026-01-17 00:00:00.000,active,product-led
+account_104,Euro Peak Systems,FR,Toulouse,SaaS,"20-49",SMB,2026-03-09 15:04:51.000,2026-03-09 00:00:00.000,2026-03-23 00:00:00.000,churned,partner
+account_105,Cobalt Works Solutions SAS,no,Trondheim,Wholesale,"100-199",Mid-Market,2028-04-28 04:52:04.000,2028-04-28 00:00:00.000,2028-05-12 00:00:00.000,active,content
+account_106,Nordic Signal Services,NO,Trondheim,Manufacturing,"100-199",Mid-Market,2029-12-20 22:35:32.000,2029-12-20 00:00:00.000,2030-01-03 00:00:00.000,active,partner
+account_107,Cobalt Wave Logistics,DK,Aalborg,Logistics,"200-300",Mid-Market,2029-10-13 18:27:39.000,2029-10-13 00:00:00.000,2029-10-27 00:00:00.000,active,sales-led
+account_108,Cobalt Pulse Consulting GmbH,NL,Rotterdam,Logistics,"20-49",SMB,2028-04-27 08:45:34.000,2028-04-27 00:00:00.000,2028-05-11 00:00:00.000,active,partner
+account_109,Apex Track Solutions,DE,Munich,Wholesale,"20-49",SMB,2028-09-20 09:08:37.000,,,churned,content
+account_110,Blue Wave Logistics,NO,Bergen,SaaS,"200-300",Mid-Market,2029-04-24 09:09:24.000,2029-04-24 00:00:00.000,2029-05-08 00:00:00.000,active,paid_search
+account_111,Bright Bridge Services,UK,Birmingham,B2B Agency,"20-49",SMB,2027-01-23 18:11:48.000,,,active,content
+account_112,Euro Peak Logistics,DE,Hamburg,Wholesale,"20-49",SMB,2026-07-10 12:15:16.000,2026-07-10 00:00:00.000,2026-07-24 00:00:00.000,active,content
+account_113,Green Wave Group,UK,Manchester,Technology Services,"200-300",Mid-Market,2029-05-17 23:08:45.000,2029-05-17 00:00:00.000,2029-05-31 00:00:00.000,active,sales-led
+account_114,Iron Bridge Solutions,NO,Oslo,Manufacturing,"50-99",SMB,2027-04-26 11:11:37.000,2027-04-26 00:00:00.000,2027-05-10 00:00:00.000,active,content
+account_115,Euro Track Solutions,FR,Nantes,B2B Agency,"20-49",SMB,2028-09-20 21:14:47.000,2028-09-20 00:00:00.000,2028-10-04 00:00:00.000,active,product-led
+account_116,Atlas Pulse Trading Ltd,NL,Utrecht,Logistics,"200-300",Mid-Market,2029-08-07 02:41:40.000,2029-08-07 00:00:00.000,2029-08-21 00:00:00.000,active,sales-led
+account_117,Nordic Pulse Services,UK,Bristol,SaaS,"100-199",Mid-Market,2027-06-09 11:22:13.000,,,active,product-led
+account_118,Atlas Wave Partners,UK,Bristol,Technology Services,"20-49",SMB,2027-03-26 23:44:31.000,2027-03-26 00:00:00.000,2027-04-09 00:00:00.000,active,content
+account_119,Apex Track Trading AB,SE,Malmö,Manufacturing,"100-199",Mid-Market,2029-08-31 06:29:29.000,2029-08-31 00:00:00.000,2029-09-14 00:00:00.000,active,sales-led
+account_120,Iron Peak Systems,DK,Aalborg,Professional Services,"100-199",Mid-Market,2029-09-04 10:21:48.000,2029-09-04 00:00:00.000,2029-09-18 00:00:00.000,active,partner
